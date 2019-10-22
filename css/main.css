@@ -186,7 +186,7 @@ h2{
 #CONTACT a:visited{color: black; font-size: 4em; padding: 1em; text-decoration: none;}
 #CONTACT a:hover{color: aqua; font-size: 5em; padding: 0; text-decoration: none;}
 
-#navigate-area dd li{
+#hamburger-menu ul dd li{
     list-style: none;
   }
 
