@@ -39,4 +39,10 @@
   height: 200px;
   background-color: none;
 }
+#navigate-area dd li{
+  list-style: none;
+}
+.logo{
+  font-size: 2em;
+}
 }
